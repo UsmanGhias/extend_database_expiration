@@ -1,10 +1,12 @@
 # Extend Database Expiry Date
 
 Extend the expiration date of your Odoo Enterprise database automatically.
+![Odoo Module](https://github.com/UsmanGhias/extend_database_expiration/blob/17.0/extend_database_expiration/static/description/OdooModule.png)
 
 ## Overview
 
 This module extends the expiration date of an Odoo Enterprise database by one month automatically. It is designed to help manage demo or development environments without needing manual intervention to extend the database's life.
+![Banner](https://github.com/UsmanGhias/extend_database_expiration/blob/17.0/extend_database_expiration/static/description/banner.png)
 
 ## Features
 
